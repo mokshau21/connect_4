@@ -1,0 +1,23 @@
+﻿
+table{
+    margin-left:17%;
+}
+button{
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background-color: grey;
+}
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+h3 {
+    text-align: center;
+}
+h4{
+    text-align:center;
+}
